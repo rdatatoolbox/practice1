@@ -8,6 +8,7 @@
 #'   - `wildfinder-ecoregions_list.csv` 
 #'   - `wildfinder-ecoregions_species.csv`
 #'   - `wildfinder-mammals_list.csv`
+#'   
 #' The folder `data/wildfinder/` will be created if required.
 #' 
 #' @param overwrite a logical. If `TRUE`, the files will be downloaded again 

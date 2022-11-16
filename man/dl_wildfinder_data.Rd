@@ -22,8 +22,9 @@ Three \code{.csv} files will be stored in \verb{data/wildfinder/}:
 \item \code{wildfinder-ecoregions_list.csv}
 \item \code{wildfinder-ecoregions_species.csv}
 \item \code{wildfinder-mammals_list.csv}
-The folder \verb{data/wildfinder/} will be created if required.
 }
+
+The folder \verb{data/wildfinder/} will be created if required.
 }
 \examples{
 \dontrun{
