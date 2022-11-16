@@ -1,3 +1,27 @@
+#' Download WWF WildFinder datasets
+#'
+#' @description 
+#' This function downloads the WWF WildFinder dataset (csv files) hosted on the 
+#' GitHub repository <https://github.com/rdatatoolbox/datarepo/>. The files
+#' won't be downloaded if already exist locally (except if `overwrite = TRUE`).
+#' Three `.csv` files will be stored in `data/wildfinder/`:
+#'   - `wildfinder-ecoregions_list.csv` 
+#'   - `wildfinder-ecoregions_species.csv`
+#'   - `wildfinder-mammals_list.csv`
+#' The folder `data/wildfinder/` will be created if required.
+#' 
+#' @param overwrite a logical. If `TRUE`, the files will be downloaded again 
+#'   and the previous versions will be erased.
+#'
+#' @return No return value.
+#' 
+#' @export
+#' 
+#' @examples 
+#' \dontrun{
+#' dl_wildfinder_data()
+#' }
+
 dl_wildfinder_data <- function(overwrite = FALSE) {
   
   ## Destination location ---- 
