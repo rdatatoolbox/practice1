@@ -1,3 +1,24 @@
+#' Download data description (README)
+#'
+#' @description 
+#' This function downloads the `README.md` of the GitHub repository
+#' <https://github.com/rdatatoolbox/datarepo/> providing data description.
+#' The file won't be downloaded if already exists locally (except if 
+#' `overwrite = TRUE`).
+#' The `README.md` will be stored in `data/`.
+#' 
+#' @param overwrite a logical. If `TRUE`, the file will be downloaded again and
+#'   the previous version will be erased.
+#'
+#' @return No return value.
+#' 
+#' @export
+#' 
+#' @examples 
+#' \dontrun{
+#' dl_data_descr()
+#' }
+
 dl_data_descr <- function(overwrite = FALSE) {
   
   ## Destination location ---- 
