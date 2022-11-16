@@ -21,3 +21,7 @@ dl_pantheria_data(overwrite = FALSE)
 
 dl_wildfinder_data(overwrite = FALSE)
 
+
+## Download databases description ----
+
+dl_data_descr(overwrite = FALSE)
