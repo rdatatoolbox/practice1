@@ -13,13 +13,6 @@ Structure of the research compendium of the practice 1 of the workshop
 **Data Toolbox for Reproducible Research in Ecology**
 <https://rdatatoolbox.github.io/>
 
-### How to cite
-
-> Casajus N, Bonnici I, Dray S, Gimenez O, Guéry L, Guilhaumon F,
-> Schiettekatte NMD & Siberchicot A (2022) Workshop FRB-CESAB & GdR
-> EcoStat: Data Toolbox for Reproducible Research in Computational
-> Ecology. Zenodo. <http://doi.org/10.5281/zenodo.4262978>.
-
 ### Content
 
 This repository is structured as follow:
@@ -63,3 +56,10 @@ source("make.R")
   installed (if necessary)
 - All required packages and R functions will be loaded
 - Some analyses listed in the `make.R` might take time
+
+### How to cite
+
+> Casajus N, Bonnici I, Dray S, Gimenez O, Guéry L, Guilhaumon F,
+> Schiettekatte NMD & Siberchicot A (2022) Workshop FRB-CESAB & GdR
+> EcoStat: Data Toolbox for Reproducible Research in Computational
+> Ecology. Zenodo. <http://doi.org/10.5281/zenodo.4262978>.
