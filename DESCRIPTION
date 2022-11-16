@@ -11,8 +11,8 @@ Authors@R: c(
 Description: Contains the structure of the research compendium of the practice 1
     of the workshop 'Data Toolbox for Reproducible Research in Ecology'
     <https://rdatatoolbox.github.io/>.
-URL: https://github.com/frbcesab/practice-1
-BugReports: https://github.com/frbcesab/practice-1/issues
+URL: https://github.com/rdatatoolbox/practice-1
+BugReports: https://github.com/rdatatoolbox/practice-1/issues
 License: GPL-2
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
