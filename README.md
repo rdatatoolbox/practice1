@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# :mortar_board: Practice 1 - Research Compendium <img src="https://raw.githubusercontent.com/rdatatoolbox/course-compendium/main/img/compendium-logo.png" height="120" align="right"/>
+# :mortar_board: Practice 1 - Research Compendium <img src="https://raw.githubusercontent.com/rdatatoolbox/course-compendium/main/img/compendium-logo.png"  align="right" style="float:right; height:120px;"/>
 
 <!-- badges: start -->
 
