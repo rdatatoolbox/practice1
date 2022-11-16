@@ -7,6 +7,7 @@
 
 [![License:
 GPL-2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://choosealicense.com/licenses/gpl-2.0/)
+[![Website](https://github.com/rdatatoolbox/practice-1/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/rdatatoolbox/practice-1/actions/workflows/pkgdown.yaml)
 <!-- badges: end -->
 
 Structure of the research compendium of the practice 1 of the workshop

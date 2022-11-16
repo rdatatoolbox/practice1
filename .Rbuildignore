@@ -8,3 +8,4 @@
 ^make\.R$
 ^practice-1\.Rproj$
 ^\.Rproj\.user$
+^_pkgdown\.yaml$
