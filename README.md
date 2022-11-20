@@ -7,7 +7,7 @@
 
 [![License:
 GPL-2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://choosealicense.com/licenses/gpl-2.0/)
-[![Website](https://github.com/rdatatoolbox/practice-1/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/rdatatoolbox/practice-1/actions/workflows/pkgdown.yaml)
+[![Website](https://github.com/rdatatoolbox/practice1/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/rdatatoolbox/practice1/actions/workflows/pkgdown.yaml)
 <!-- badges: end -->
 
 Structure of the research compendium of the practice 1 of the workshop
@@ -18,28 +18,28 @@ Structure of the research compendium of the practice 1 of the workshop
 
 This repository is structured as follow:
 
-- [`data/`](https://github.com/rdatatoolbox/practice-1/tree/master/data):
+- [`data/`](https://github.com/rdatatoolbox/practice1/tree/master/data):
   contains all raw data required to perform analyses
 
-- [`analyses/`](https://github.com/rdatatoolbox/practice-1/tree/master/analyses/):
+- [`analyses/`](https://github.com/rdatatoolbox/practice1/tree/master/analyses/):
   contains R scripts to run each step of the workflow
 
-- [`outputs/`](https://github.com/rdatatoolbox/practice-1/tree/master/outputs):
+- [`outputs/`](https://github.com/rdatatoolbox/practice1/tree/master/outputs):
   contains all the results created during the workflow
 
-- [`figures/`](https://github.com/rdatatoolbox/practice-1/tree/master/figures):
+- [`figures/`](https://github.com/rdatatoolbox/practice1/tree/master/figures):
   contains all the figures created during the workflow
 
-- [`R/`](https://github.com/rdatatoolbox/practice-1/tree/master/R):
+- [`R/`](https://github.com/rdatatoolbox/practice1/tree/master/R):
   contains R functions developed especially for this project
 
-- [`man/`](https://github.com/rdatatoolbox/practice-1/tree/master/man):
+- [`man/`](https://github.com/rdatatoolbox/practice1/tree/master/man):
   contains help files of R functions
 
-- [`DESCRIPTION`](https://github.com/rdatatoolbox/practice-1/tree/master/DESCRIPTION):
+- [`DESCRIPTION`](https://github.com/rdatatoolbox/practice1/tree/master/DESCRIPTION):
   contains project metadata (author, date, dependencies, etc.)
 
-- [`make.R`](https://github.com/rdatatoolbox/practice-1/tree/master/make.R):
+- [`make.R`](https://github.com/rdatatoolbox/practice1/tree/master/make.R):
   main R script to run the entire project by calling each R script
   stored in the `analyses/` folder
 

@@ -6,6 +6,6 @@
 ^figures$
 ^analyses$
 ^make\.R$
-^practice-1\.Rproj$
+^practice1\.Rproj$
 ^\.Rproj\.user$
 ^_pkgdown\.yaml$
