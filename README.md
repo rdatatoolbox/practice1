@@ -12,7 +12,7 @@ GPL-2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://chooseal
 
 Structure of the research compendium of the practice 1 of the workshop
 **Data Toolbox for Reproducible Research in Ecology**
-<https://rdatatoolbox.github.io/>
+<https://rdatatoolbox.github.io/ex-compendium.html>
 
 ### Content
 
@@ -24,17 +24,8 @@ This repository is structured as follow:
 - [`analyses/`](https://github.com/rdatatoolbox/practice1/tree/master/analyses/):
   contains R scripts to run each step of the workflow
 
-- [`outputs/`](https://github.com/rdatatoolbox/practice1/tree/master/outputs):
-  contains all the results created during the workflow
-
-- [`figures/`](https://github.com/rdatatoolbox/practice1/tree/master/figures):
-  contains all the figures created during the workflow
-
 - [`R/`](https://github.com/rdatatoolbox/practice1/tree/master/R):
   contains R functions developed especially for this project
-
-- [`man/`](https://github.com/rdatatoolbox/practice1/tree/master/man):
-  contains help files of R functions
 
 - [`DESCRIPTION`](https://github.com/rdatatoolbox/practice1/tree/master/DESCRIPTION):
   contains project metadata (author, date, dependencies, etc.)

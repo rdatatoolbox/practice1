@@ -24,7 +24,7 @@ knitr::opts_chunk$set(collapse  = TRUE,
 
 
 Structure of the research compendium of the practice 1 of the workshop 
-**Data Toolbox for Reproducible Research in Ecology** <https://rdatatoolbox.github.io/>
+**Data Toolbox for Reproducible Research in Ecology** <https://rdatatoolbox.github.io/ex-compendium.html>
 
 
 
@@ -38,17 +38,8 @@ contains all raw data required to perform analyses
 - [`analyses/`](https://github.com/rdatatoolbox/practice1/tree/master/analyses/):
 contains R scripts to run each step of the workflow
 
-- [`outputs/`](https://github.com/rdatatoolbox/practice1/tree/master/outputs):
-contains all the results created during the workflow
-
-- [`figures/`](https://github.com/rdatatoolbox/practice1/tree/master/figures):
-contains all the figures created during the workflow
-
 - [`R/`](https://github.com/rdatatoolbox/practice1/tree/master/R):
 contains R functions developed especially for this project
-
-- [`man/`](https://github.com/rdatatoolbox/practice1/tree/master/man):
-contains help files of R functions
 
 - [`DESCRIPTION`](https://github.com/rdatatoolbox/practice1/tree/master/DESCRIPTION):
 contains project metadata (author, date, dependencies, etc.)
