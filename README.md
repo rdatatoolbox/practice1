@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# :mortar_board: Practice 1 - Research Compendium <img src="https://raw.githubusercontent.com/rdatatoolbox/course-compendium/main/img/compendium-logo.png"  align="right" style="float:right; height:120px;"/>
+## :mortar_board: Practice 1 - Research Compendium
 
 <!-- badges: start -->
 
@@ -10,33 +10,34 @@ GPL-2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://chooseal
 [![Website](https://github.com/rdatatoolbox/practice1/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/rdatatoolbox/practice1/actions/workflows/pkgdown.yaml)
 <!-- badges: end -->
 
-Structure of the research compendium of the practice 1 of the workshop
-**Data Toolbox for Reproducible Research in Ecology**
-<https://rdatatoolbox.github.io/ex-compendium.html>
+Structure of the research compendium of the [practice
+1](https://rdatatoolbox.github.io/ex-compendium.html) of the training
+course [**Reproducible Research in Computational
+Ecology**](https://rdatatoolbox.github.io).
 
 ### Content
 
 This repository is structured as follow:
 
-- [`data/`](https://github.com/rdatatoolbox/practice1/tree/master/data):
+- [`data/`](https://github.com/rdatatoolbox/practice1/tree/main/data):
   contains all raw data required to perform analyses
 
-- [`analyses/`](https://github.com/rdatatoolbox/practice1/tree/master/analyses/):
+- [`analyses/`](https://github.com/rdatatoolbox/practice1/tree/main/analyses/):
   contains R scripts to run each step of the workflow
 
-- [`R/`](https://github.com/rdatatoolbox/practice1/tree/master/R):
+- [`R/`](https://github.com/rdatatoolbox/practice1/tree/main/R):
   contains R functions developed especially for this project
 
-- [`DESCRIPTION`](https://github.com/rdatatoolbox/practice1/tree/master/DESCRIPTION):
+- [`DESCRIPTION`](https://github.com/rdatatoolbox/practice1/tree/main/DESCRIPTION):
   contains project metadata (author, date, dependencies, etc.)
 
-- [`make.R`](https://github.com/rdatatoolbox/practice1/tree/master/make.R):
+- [`make.R`](https://github.com/rdatatoolbox/practice1/tree/main/make.R):
   main R script to run the entire project by calling each R script
   stored in the `analyses/` folder
 
 ### Usage
 
-Clone the repository, open R/RStudio and run:
+Fork and clone the repository, open R/RStudio and run:
 
 ``` r
 source("make.R")
@@ -47,11 +48,10 @@ source("make.R")
 - All required packages, listed in the `DESCRIPTION` file, will be
   installed (if necessary)
 - All required packages and R functions will be loaded
-- Some analyses listed in the `make.R` might take time
 
 ### How to cite
 
 > Casajus N, Bonnici I, Dray S, Gimenez O, Guéry L, Guilhaumon F,
-> Schiettekatte NMD & Siberchicot A (2022) Workshop FRB-CESAB & GdR
-> EcoStat: Data Toolbox for Reproducible Research in Computational
-> Ecology. Zenodo. <http://doi.org/10.5281/zenodo.4262978>.
+> Schiettekatte NMD & Siberchicot A (2023) Workshop FRB-CESAB & RT
+> EcoStat: Reproducible Research in Computational Ecology. Zenodo.
+> <http://doi.org/10.5281/zenodo.4262978>.
